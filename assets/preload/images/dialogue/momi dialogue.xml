@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="momi dialogue.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="momi cat talk anim0000" x="16" y="757" width="528" height="709"/>
+	<SubTexture name="momi cat talk anim0001" x="16" y="757" width="528" height="709"/>
+	<SubTexture name="momi cat talk anim0002" x="576" y="16" width="528" height="709"/>
+	<SubTexture name="momi cat talk anim0003" x="576" y="16" width="528" height="709"/>
+	<SubTexture name="momi cat talk anim0004" x="576" y="757" width="528" height="709"/>
+	<SubTexture name="momi cat talk anim0005" x="576" y="757" width="528" height="709"/>
+	<SubTexture name="momi cat talk idle0000" x="1696" y="757" width="528" height="709"/>
+	<SubTexture name="momi cat talk idle0001" x="1696" y="757" width="528" height="709"/>
+	<SubTexture name="momi cat talk idle0002" x="1696" y="757" width="528" height="709"/>
+	<SubTexture name="momi cat talk idle0003" x="1696" y="757" width="528" height="709"/>
+	<SubTexture name="momi talk anim0000" x="1136" y="16" width="528" height="709"/>
+	<SubTexture name="momi talk anim0001" x="1136" y="16" width="528" height="709"/>
+	<SubTexture name="momi talk anim0002" x="1136" y="757" width="528" height="709"/>
+	<SubTexture name="momi talk anim0003" x="1136" y="757" width="528" height="709"/>
+	<SubTexture name="momi talk anim0004" x="1696" y="16" width="528" height="709"/>
+	<SubTexture name="momi talk anim0005" x="1696" y="16" width="528" height="709"/>
+	<SubTexture name="momi talk idle0000" x="16" y="16" width="528" height="709"/>
+	<SubTexture name="momi talk idle0001" x="16" y="16" width="528" height="709"/>
+	<SubTexture name="momi talk idle0002" x="16" y="16" width="528" height="709"/>
+	<SubTexture name="momi talk idle0003" x="16" y="16" width="528" height="709"/>
+</TextureAtlas>

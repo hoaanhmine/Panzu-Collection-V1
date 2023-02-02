@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BubzConfirmMenu",
+	"idle_anim": "BubzMenu",
+	"position": [
+		-30,
+		-10
+	],
+	"scale": 1,
+	"image": "BUBZMENU",
+	"flipX": false
+}

@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh nah : l"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IT'S MY ONE WEAKNESS!!! : O"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "DUST"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i musn't sneeze or i will transform oh dear >o<"
+		}
+	]
+}

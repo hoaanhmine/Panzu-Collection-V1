@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Arch", "arch", [102, 102, 102]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "hacked",
+
+	"storyName": "Arch",
+	"weekBefore": "AnkhaSong",
+	"weekName": "Panzu Collection Arch",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

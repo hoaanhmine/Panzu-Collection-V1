@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sky.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="bg_sky10000" x="0" y="0" width="2643" height="1257" frameX="0" frameY="0" frameWidth="2643" frameHeight="1257"/>
+	<SubTexture name="bg_sky20000" x="0" y="1258" width="1971" height="1257" frameX="0" frameY="0" frameWidth="1971" frameHeight="1257"/>
+</TextureAtlas>

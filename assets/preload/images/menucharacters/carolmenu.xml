@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="carolmenu.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="Dad idle dance0000" x="0" y="0" width="307" height="511" frameX="-238" frameY="-240" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0001" x="0" y="0" width="307" height="511" frameX="-238" frameY="-240" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0002" x="308" y="0" width="310" height="513" frameX="-239" frameY="-238" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0003" x="308" y="0" width="310" height="513" frameX="-239" frameY="-238" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0004" x="619" y="0" width="312" height="512" frameX="-238" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0005" x="619" y="0" width="312" height="512" frameX="-238" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0006" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0007" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0008" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0009" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0010" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0011" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0012" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0013" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0014" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0015" x="1250" y="0" width="306" height="512" frameX="-234" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0016" x="1250" y="0" width="306" height="512" frameX="-234" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0017" x="1557" y="0" width="307" height="512" frameX="-234" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0018" x="1557" y="0" width="307" height="512" frameX="-234" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0019" x="1865" y="0" width="312" height="512" frameX="-238" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0020" x="1865" y="0" width="312" height="512" frameX="-238" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0021" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0022" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0023" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0024" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0025" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0026" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0027" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+	<SubTexture name="Dad idle dance0028" x="932" y="0" width="317" height="512" frameX="-235" frameY="-239" frameWidth="552" frameHeight="751"/>
+</TextureAtlas>

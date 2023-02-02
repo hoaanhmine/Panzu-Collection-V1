@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="VAN.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VanIdle0000" x="10" y="10" width="298" height="328" frameX="0" frameY="0" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0001" x="10" y="10" width="298" height="328" frameX="0" frameY="0" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0002" x="318" y="10" width="296" height="326" frameX="-2" frameY="-2" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0003" x="318" y="10" width="296" height="326" frameX="-2" frameY="-2" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0004" x="624" y="10" width="292" height="324" frameX="-8" frameY="-4" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0005" x="624" y="10" width="292" height="324" frameX="-8" frameY="-4" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0006" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0007" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0008" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0009" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0010" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0011" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0012" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0013" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0014" x="308" y="348" width="300" height="327" frameX="-10" frameY="-1" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0015" x="308" y="348" width="300" height="327" frameX="-10" frameY="-1" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0016" x="618" y="348" width="297" height="326" frameX="-10" frameY="-2" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0017" x="618" y="348" width="297" height="326" frameX="-10" frameY="-2" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0018" x="10" y="685" width="290" height="324" frameX="-10" frameY="-4" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0019" x="10" y="685" width="290" height="324" frameX="-10" frameY="-4" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0020" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0021" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0022" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0023" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0024" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0025" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0026" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+	<SubTexture name="VanIdle0027" x="10" y="348" width="288" height="322" frameX="-10" frameY="-6" frameWidth="310" frameHeight="328"/>
+</TextureAtlas>

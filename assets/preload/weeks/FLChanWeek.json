@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Eferu Chan", "flchan", [165, 220, 133]],
+		["Fruity Reeverb 2", "flchan", [165, 220, 133]],
+		["FL Slayer", "flchan", [165, 220, 133]]
+	],
+
+	"weekCharacters": [
+		"flchan",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "fltrain",
+
+	"storyName": "Train Ride Tunes",
+	"weekBefore": "DoxxieSong",
+	"weekName": "Panzu Collection FLChan",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "hard"
+}

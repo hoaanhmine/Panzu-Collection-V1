@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Momi Roll", "momi", [255, 153, 102]],
+		["Nazel", "momiallergy", [224, 83, 51]],
+		["Neko", "momineko", [255, 153, 102]]
+	],
+
+	"weekCharacters": [
+		"momi",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "momialley",
+
+	"storyName": "Mysterious Girl...",
+	"weekBefore": "HellCarolSong",
+	"weekName": "Panzu Collection Momi",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

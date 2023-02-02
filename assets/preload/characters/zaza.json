@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ZazaIdle"
+		},
+		{
+			"offsets": [
+				6,
+				-252
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ZazaLeft"
+		},
+		{
+			"offsets": [
+				-2,
+				-256
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ZazaDown"
+		},
+		{
+			"offsets": [
+				13,
+				-258
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ZazaUp"
+		},
+		{
+			"offsets": [
+				-7,
+				-234
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ZazaRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ZAZA",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "zaza",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

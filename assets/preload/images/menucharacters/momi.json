@@ -1,0 +1,11 @@
+{
+	"idle_anim": "momi idle menu",
+	"image": "momi_menu",
+	"position": [
+		140,
+		185
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "M Dad Idle"
+}

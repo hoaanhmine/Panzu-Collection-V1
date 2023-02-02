@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "mona idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "mona idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				-49
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mona left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mona down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mona right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mona up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "doxxie/demona",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-60,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

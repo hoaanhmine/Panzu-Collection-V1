@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["norway", "tord", [204, 51, 51]],
+		["tordbot", "tordbot", [102, 204, 255]]
+	],
+
+	"weekCharacters": [
+		"tord",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "eddshouse",
+
+	"storyName": "Old Friends",
+	"weekBefore": "MomiWeek",
+	"weekName": "Panzu Collection Tord",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "hard"
+}

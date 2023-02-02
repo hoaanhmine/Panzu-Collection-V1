@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["LEAXER", "doxxiearch", [0, 153, 51]]
+	],
+
+	"weekCharacters": [
+		"arch",
+		"bb",
+		"doxxieflip"
+	],
+	"weekBackground": "",
+
+	"storyName": "Stolen Accounts and Information",
+	"weekBefore": "DoxxieSong",
+	"weekName": "Panzu Collection Doxxie 2 (Ft. Arch)",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "hard"
+}

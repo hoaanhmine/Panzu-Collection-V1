@@ -1,0 +1,11 @@
+{
+	"idle_anim": "ZazaIdle",
+	"image": "ZAZA",
+	"position": [
+		40,
+		20
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "ZazaIdle"
+}

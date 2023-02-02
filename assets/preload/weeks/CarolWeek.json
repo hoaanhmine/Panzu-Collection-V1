@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Carol Roll", "carol", [102, 102, 153]],
+		["Body", "carol", [102, 102, 153]],
+		["Boogie", "carol", [102, 102, 153]]
+	],
+
+	"weekCharacters": [
+		"carol",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "philly",
+
+	"storyName": "Dreamgirl Bout",
+	"weekBefore": "ArchSong",
+	"weekName": "Panzu Collection Carol",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

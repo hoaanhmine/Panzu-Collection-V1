@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BUBZ.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BubzDie0000" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0001" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0002" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0003" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0004" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0005" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0006" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0007" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0008" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0009" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0010" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0011" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0012" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0013" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0014" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0015" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0016" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0017" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0018" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0019" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0020" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0021" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0022" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0023" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0024" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0025" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0026" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0027" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0028" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0029" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0030" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0031" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0032" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0033" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0034" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0035" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0036" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0037" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0038" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0039" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0040" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0041" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0042" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0043" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0044" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0045" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0046" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0047" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0048" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0049" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0050" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0051" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0052" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0053" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0054" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0055" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0056" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDie0057" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0000" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0001" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0002" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0003" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0004" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0005" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0006" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0007" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0008" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0009" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0010" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0011" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0012" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0013" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0014" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0015" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0016" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0017" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0018" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0019" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0020" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0021" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0022" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0023" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0024" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0025" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0026" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0027" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0028" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0029" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0030" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0031" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0032" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDieLoopRe0033" x="10" y="10" width="178" height="188"/>
+	<SubTexture name="BubzDown0000" x="198" y="10" width="248" height="362" frameX="0" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0001" x="198" y="10" width="248" height="362" frameX="0" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0002" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0003" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0004" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0005" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0006" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0007" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0008" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0009" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0010" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0011" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0012" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzDown0013" x="456" y="10" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzIdle0000" x="709" y="10" width="219" height="350" frameX="0" frameY="-5" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0001" x="709" y="10" width="219" height="350" frameX="0" frameY="-5" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0002" x="938" y="10" width="215" height="351" frameX="-5" frameY="-4" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0003" x="938" y="10" width="215" height="351" frameX="-5" frameY="-4" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0004" x="1163" y="10" width="209" height="355" frameX="-13" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0005" x="1163" y="10" width="209" height="355" frameX="-13" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0006" x="1382" y="10" width="208" height="356" frameX="-15" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0007" x="1382" y="10" width="208" height="356" frameX="-15" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0008" x="1382" y="10" width="208" height="356" frameX="-15" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0009" x="1382" y="10" width="208" height="356" frameX="-15" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0010" x="1382" y="10" width="208" height="356" frameX="-15" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0011" x="1382" y="10" width="208" height="356" frameX="-15" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0012" x="1382" y="10" width="208" height="356" frameX="-15" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzIdle0013" x="1382" y="10" width="208" height="356" frameX="-15" frameY="0" frameWidth="223" frameHeight="356"/>
+	<SubTexture name="BubzLeft0000" x="263" y="383" width="233" height="365" frameX="0" frameY="0" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0001" x="263" y="383" width="233" height="365" frameX="0" frameY="0" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0002" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0003" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0004" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0005" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0006" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0007" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0008" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0009" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0010" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0011" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0012" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzLeft0013" x="1600" y="10" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissDown0000" x="198" y="10" width="248" height="362" frameX="0" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0001" x="198" y="10" width="248" height="362" frameX="0" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0002" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0003" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0004" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0005" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0006" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0007" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0008" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0009" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0010" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0011" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0012" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissDown0013" x="10" y="383" width="243" height="362" frameX="-6" frameY="0" frameWidth="249" frameHeight="362"/>
+	<SubTexture name="BubzMissLeft0000" x="263" y="383" width="233" height="365" frameX="0" frameY="0" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0001" x="263" y="383" width="233" height="365" frameX="0" frameY="0" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0002" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0003" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0004" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0005" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0006" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0007" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0008" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0009" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0010" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0011" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0012" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissLeft0013" x="506" y="383" width="229" height="363" frameX="-6" frameY="-2" frameWidth="235" frameHeight="365"/>
+	<SubTexture name="BubzMissRight0000" x="1225" y="383" width="234" height="370"/>
+	<SubTexture name="BubzMissRight0001" x="1225" y="383" width="234" height="370"/>
+	<SubTexture name="BubzMissRight0002" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0003" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0004" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0005" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0006" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0007" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0008" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0009" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0010" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0011" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0012" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissRight0013" x="745" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzMissUp0000" x="1708" y="383" width="239" height="367" frameX="-2" frameY="0" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0001" x="1708" y="383" width="239" height="367" frameX="-2" frameY="0" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0002" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0003" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0004" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0005" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0006" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0007" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0008" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0009" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0010" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0011" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0012" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzMissUp0013" x="984" y="383" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzRight0000" x="1225" y="383" width="234" height="370"/>
+	<SubTexture name="BubzRight0001" x="1225" y="383" width="234" height="370"/>
+	<SubTexture name="BubzRight0002" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0003" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0004" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0005" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0006" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0007" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0008" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0009" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0010" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0011" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0012" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzRight0013" x="1469" y="383" width="229" height="367" frameX="-2" frameY="-3" frameWidth="234" frameHeight="370"/>
+	<SubTexture name="BubzUp0000" x="1708" y="383" width="239" height="367" frameX="-2" frameY="0" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0001" x="1708" y="383" width="239" height="367" frameX="-2" frameY="0" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0002" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0003" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0004" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0005" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0006" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0007" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0008" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0009" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0010" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0011" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0012" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+	<SubTexture name="BubzUp0013" x="10" y="763" width="231" height="363" frameX="0" frameY="-4" frameWidth="241" frameHeight="367"/>
+</TextureAtlas>

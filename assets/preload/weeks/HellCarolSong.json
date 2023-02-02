@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Hellroll", "angelcarol", [241, 116, 0]]
+	],
+
+	"weekCharacters": [
+		"angelcarol",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "carolhell",
+
+	"storyName": "*fear*",
+	"weekBefore": "FLChanWeek",
+	"weekName": "Panzu Collection Hell Carol",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "hard,hell"
+}

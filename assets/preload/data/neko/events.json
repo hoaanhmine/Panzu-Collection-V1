@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				2594.59459459459,
+				[
+					[
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						"Play Animation",
+						"fuckshit",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"ded"
+					],
+					[
+						"Screen Shake",
+						"0.3, 0.02",
+						"0.3, 0.01"
+					]
+				]
+			]
+		]
+	}
+}

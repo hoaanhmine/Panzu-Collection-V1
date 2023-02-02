@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bub idle"
+		},
+		{
+			"offsets": [
+				120,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bub left"
+		},
+		{
+			"offsets": [
+				40,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bub down"
+		},
+		{
+			"offsets": [
+				40,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bub up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "bub alt idle"
+		},
+		{
+			"offsets": [
+				-90,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bub right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "doxxie/bub",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bb",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		153,
+		51
+	],
+	"camera_position": [
+		-220,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

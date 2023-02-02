@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-40,
+				100
+			],
+			"idle_offsets": [
+				-40,
+				100
+			],
+			"loop_name": "momi talk anim",
+			"idle_name": "momi talk idle"
+		},
+		{
+			"loop_name": "momi cat talk anim",
+			"idle_offsets": [
+				-40,
+				100
+			],
+			"idle_name": "momi cat talk idle",
+			"anim": "cat",
+			"loop_offsets": [
+				-40,
+				100
+			]
+		}
+	],
+	"image": "momi dialogue"
+}

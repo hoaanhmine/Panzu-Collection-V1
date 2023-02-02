@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Camel", "ankha", [153, 102, 51]]
+	],
+
+	"weekCharacters": [
+		"ankha",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "ankha",
+
+	"storyName": "The Cat is not Singing",
+	"weekBefore": "",
+	"weekName": "Panzu Collection Ankha",
+	"startUnlocked": false,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bbpanzu_menu.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="Idlemenu0000" x="0" y="0" width="325" height="548" frameX="-128" frameY="-173" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0001" x="0" y="0" width="325" height="548" frameX="-128" frameY="-173" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0002" x="326" y="0" width="321" height="552" frameX="-130" frameY="-169" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0003" x="326" y="0" width="321" height="552" frameX="-130" frameY="-169" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0004" x="648" y="0" width="310" height="561" frameX="-132" frameY="-160" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0005" x="648" y="0" width="310" height="561" frameX="-132" frameY="-160" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0006" x="959" y="0" width="311" height="563" frameX="-133" frameY="-158" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0007" x="959" y="0" width="311" height="563" frameX="-133" frameY="-158" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0008" x="959" y="0" width="311" height="563" frameX="-133" frameY="-158" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0009" x="959" y="0" width="311" height="563" frameX="-133" frameY="-158" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0010" x="959" y="0" width="311" height="563" frameX="-133" frameY="-158" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0011" x="959" y="0" width="311" height="563" frameX="-133" frameY="-158" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0012" x="959" y="0" width="311" height="563" frameX="-133" frameY="-158" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Idlemenu0013" x="959" y="0" width="311" height="563" frameX="-133" frameY="-158" frameWidth="577" frameHeight="767"/>
+	<SubTexture name="Upmenu0000" x="1271" y="0" width="353" height="593" frameX="-119" frameY="-133" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0001" x="1271" y="0" width="353" height="593" frameX="-119" frameY="-133" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0002" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0003" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0004" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0005" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0006" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0007" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0008" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0009" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0010" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0011" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0012" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+	<SubTexture name="Upmenu0013" x="1625" y="0" width="357" height="589" frameX="-117" frameY="-137" frameWidth="575" frameHeight="765"/>
+</TextureAtlas>

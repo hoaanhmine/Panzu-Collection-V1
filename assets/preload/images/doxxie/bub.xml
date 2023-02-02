@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bub.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bub alt idle0000" x="1575" y="920" width="313" height="412"/>
+	<SubTexture name="bub alt idle0001" x="1575" y="920" width="313" height="412"/>
+	<SubTexture name="bub alt idle0002" x="0" y="930" width="313" height="412"/>
+	<SubTexture name="bub alt idle0003" x="0" y="930" width="313" height="412"/>
+	<SubTexture name="bub alt idle0004" x="315" y="930" width="313" height="412"/>
+	<SubTexture name="bub alt idle0005" x="315" y="930" width="313" height="412"/>
+	<SubTexture name="bub alt idle0006" x="630" y="955" width="313" height="412"/>
+	<SubTexture name="bub alt idle0007" x="630" y="955" width="313" height="412"/>
+	<SubTexture name="bub alt idle0008" x="945" y="955" width="313" height="412"/>
+	<SubTexture name="bub alt idle0009" x="945" y="955" width="313" height="412"/>
+	<SubTexture name="bub alt idle0010" x="1260" y="1334" width="313" height="412"/>
+	<SubTexture name="bub alt idle0011" x="1260" y="1334" width="313" height="412"/>
+	<SubTexture name="bub alt idle0012" x="1575" y="1334" width="313" height="412"/>
+	<SubTexture name="bub alt idle0013" x="1575" y="1334" width="313" height="412"/>
+	<SubTexture name="bub down0000" x="0" y="1344" width="434" height="286"/>
+	<SubTexture name="bub down0001" x="0" y="1344" width="434" height="286"/>
+	<SubTexture name="bub down0002" x="436" y="1369" width="434" height="286"/>
+	<SubTexture name="bub down0003" x="436" y="1369" width="434" height="286"/>
+	<SubTexture name="bub down0004" x="436" y="1369" width="434" height="286"/>
+	<SubTexture name="bub down0005" x="436" y="1369" width="434" height="286"/>
+	<SubTexture name="bub down0006" x="436" y="1369" width="434" height="286"/>
+	<SubTexture name="bub down0007" x="436" y="1369" width="434" height="286"/>
+	<SubTexture name="bub down0008" x="436" y="1369" width="434" height="286"/>
+	<SubTexture name="bub down0009" x="436" y="1369" width="434" height="286"/>
+	<SubTexture name="bub idle0000" x="0" y="516" width="313" height="412"/>
+	<SubTexture name="bub idle0001" x="0" y="516" width="313" height="412"/>
+	<SubTexture name="bub idle0002" x="315" y="516" width="313" height="412"/>
+	<SubTexture name="bub idle0003" x="315" y="516" width="313" height="412"/>
+	<SubTexture name="bub idle0004" x="630" y="541" width="313" height="412"/>
+	<SubTexture name="bub idle0005" x="630" y="541" width="313" height="412"/>
+	<SubTexture name="bub idle0006" x="945" y="541" width="313" height="412"/>
+	<SubTexture name="bub idle0007" x="945" y="541" width="313" height="412"/>
+	<SubTexture name="bub idle0008" x="1260" y="920" width="313" height="412"/>
+	<SubTexture name="bub idle0009" x="1260" y="920" width="313" height="412"/>
+	<SubTexture name="bub left0000" x="1572" y="0" width="369" height="458"/>
+	<SubTexture name="bub left0001" x="1572" y="0" width="369" height="458"/>
+	<SubTexture name="bub left0002" x="1572" y="460" width="369" height="458"/>
+	<SubTexture name="bub left0003" x="1572" y="460" width="369" height="458"/>
+	<SubTexture name="bub left0004" x="1572" y="460" width="369" height="458"/>
+	<SubTexture name="bub left0005" x="1572" y="460" width="369" height="458"/>
+	<SubTexture name="bub left0006" x="1572" y="460" width="369" height="458"/>
+	<SubTexture name="bub left0007" x="1572" y="460" width="369" height="458"/>
+	<SubTexture name="bub left0008" x="1572" y="460" width="369" height="458"/>
+	<SubTexture name="bub left0009" x="1572" y="460" width="369" height="458"/>
+	<SubTexture name="bub right0000" x="0" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0001" x="0" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0002" x="469" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0003" x="469" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0004" x="469" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0005" x="469" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0006" x="469" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0007" x="469" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0008" x="469" y="0" width="467" height="514"/>
+	<SubTexture name="bub right0009" x="469" y="0" width="467" height="514"/>
+	<SubTexture name="bub up0000" x="938" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0001" x="938" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0002" x="1255" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0003" x="1255" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0004" x="1255" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0005" x="1255" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0006" x="1255" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0007" x="1255" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0008" x="1255" y="0" width="315" height="539"/>
+	<SubTexture name="bub up0009" x="1255" y="0" width="315" height="539"/>
+</TextureAtlas>

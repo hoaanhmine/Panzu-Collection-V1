@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZAZA.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ZazaDown0000" x="10" y="10" width="283" height="376" frameX="-2" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0001" x="10" y="10" width="283" height="376" frameX="-2" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0002" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0003" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0004" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0005" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0006" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0007" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0008" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0009" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0010" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0011" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0012" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaDown0013" x="303" y="10" width="283" height="376" frameX="0" frameY="0" frameWidth="285" frameHeight="376"/>
+	<SubTexture name="ZazaIdle0000" x="596" y="10" width="317" height="381"/>
+	<SubTexture name="ZazaIdle0001" x="596" y="10" width="317" height="381"/>
+	<SubTexture name="ZazaIdle0002" x="923" y="10" width="314" height="379" frameX="0" frameY="-2" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0003" x="923" y="10" width="314" height="379" frameX="0" frameY="-2" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0004" x="1247" y="10" width="294" height="365" frameX="-9" frameY="-16" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0005" x="1247" y="10" width="294" height="365" frameX="-9" frameY="-16" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0006" x="1551" y="10" width="293" height="364" frameX="-8" frameY="-17" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0007" x="1551" y="10" width="293" height="364" frameX="-8" frameY="-17" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0008" x="10" y="401" width="291" height="363" frameX="-9" frameY="-18" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0009" x="10" y="401" width="291" height="363" frameX="-9" frameY="-18" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0010" x="10" y="401" width="291" height="363" frameX="-9" frameY="-18" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0011" x="10" y="401" width="291" height="363" frameX="-9" frameY="-18" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0012" x="10" y="401" width="291" height="363" frameX="-9" frameY="-18" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaIdle0013" x="10" y="401" width="291" height="363" frameX="-9" frameY="-18" frameWidth="317" frameHeight="381"/>
+	<SubTexture name="ZazaLeft0000" x="311" y="401" width="292" height="379" frameX="0" frameY="0" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0001" x="311" y="401" width="292" height="379" frameX="0" frameY="0" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0002" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0003" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0004" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0005" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0006" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0007" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0008" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0009" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0010" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0011" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0012" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaLeft0013" x="613" y="401" width="286" height="372" frameX="-9" frameY="-7" frameWidth="295" frameHeight="379"/>
+	<SubTexture name="ZazaRight0000" x="909" y="401" width="314" height="397" frameX="-2" frameY="0" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0001" x="909" y="401" width="314" height="397" frameX="-2" frameY="0" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0002" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0003" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0004" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0005" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0006" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0007" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0008" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0009" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0010" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0011" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0012" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaRight0013" x="1233" y="401" width="311" height="393" frameX="0" frameY="-4" frameWidth="316" frameHeight="397"/>
+	<SubTexture name="ZazaUp0000" x="1554" y="401" width="301" height="374"/>
+	<SubTexture name="ZazaUp0001" x="1554" y="401" width="301" height="374"/>
+	<SubTexture name="ZazaUp0002" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0003" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0004" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0005" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0006" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0007" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0008" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0009" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0010" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0011" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0012" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+	<SubTexture name="ZazaUp0013" x="10" y="808" width="292" height="371" frameX="-7" frameY="-3" frameWidth="301" frameHeight="374"/>
+</TextureAtlas>

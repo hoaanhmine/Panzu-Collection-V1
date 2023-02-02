@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uwuwuwwuw uu love sugio weeb shit"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bo bop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "she is speaking weeblet"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop skoo do"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im bouta sing a song rq"
+		}
+	]
+}

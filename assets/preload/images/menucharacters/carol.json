@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Dad idle dance",
+	"image": "carolmenu",
+	"position": [
+		243,
+		273
+	],
+	"flipX": false,
+	"scale": 0.7,
+	"confirm_anim": "M Dad Idle"
+}

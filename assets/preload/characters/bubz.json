@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BubzIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BubzLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BubzDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BubzUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BubzRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BubzMissLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				14
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BubzMissRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				12
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BubzMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				7
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BubzMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-170
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BubzDie0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-170
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BubzDieLoopRe",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-170
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BubzDieLoopRe",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BUBZ",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "bubz",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

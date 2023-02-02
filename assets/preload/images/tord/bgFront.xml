@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgFront.png">
+	<!-- Used VMan_2002's spritesheet converter. -->
+	<SubTexture name="bg_destroy0000" x="0" y="0" width="1971" height="1065" frameX="0" frameY="-192" frameWidth="1971" frameHeight="1257"/>
+	<SubTexture name="bg_normal0000" x="1972" y="0" width="1971" height="1180" frameX="0" frameY="-77" frameWidth="1971" frameHeight="1257"/>
+</TextureAtlas>

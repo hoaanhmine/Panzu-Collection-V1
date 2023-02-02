@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "cat",
+			"text": "oh dear. it seems you have seen it   owo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "cat",
+			"text": "My true form  :3"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "a cat girl. whoah."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "actually the proper term is 'neko'. Japanese for cat."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " a cat neko. whoah."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "momi",
+			"boxState": "normal",
+			"expression": "cat",
+			"text": "perhaps i will sing one last song before the government finds me."
+		}
+	]
+}
